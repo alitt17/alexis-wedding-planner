@@ -1,0 +1,16 @@
+/* src/index.css */
+
+/* Basic reset & global styles */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8fafc;
+  color: #1f2937;
+}
+
+/* You can also import your App.css here if you like: */
+/* @import './App.css'; */
